@@ -1,0 +1,1 @@
+This is same name file in another branch which will cause conflict.
