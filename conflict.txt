@@ -1,2 +1,1 @@
-A file in QA branch which will cause conflict with , delivery branch.
-.
+This resolves conflict by keeping only one copy of file.
