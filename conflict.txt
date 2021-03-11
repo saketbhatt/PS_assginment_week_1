@@ -1,1 +1,1 @@
-This is same name file in another branch which will cause conflict.
+This resolves conflict by keeping only one copy of file.
